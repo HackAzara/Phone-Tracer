@@ -1,0 +1,7 @@
+phonenumbers==8.12.9
+folium==0.12.1
+colorama==0.4.4
+termcolor==1.1.0
+pyfiglet==0.8.post1
+opencage==1.2.2
+
